@@ -1,2 +1,2 @@
 # uma
-A project for practice
+A project for practice success
